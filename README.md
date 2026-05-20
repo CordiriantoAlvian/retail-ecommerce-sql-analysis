@@ -181,3 +181,13 @@ This project demonstrates the ability to use SQL for business analytics and deci
 
 **Cordirianto Alvian**  
 
+## Dataset Access
+
+Due to GitHub file size limitations, the full raw dataset is not uploaded directly to this repository.
+
+The dataset used in this project is the Olist Brazilian E-Commerce Public Dataset, which can be accessed from Kaggle:
+
+Dataset source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+Only SQL scripts, analysis queries, schema documentation, and sample outputs are included in this repository.
+
