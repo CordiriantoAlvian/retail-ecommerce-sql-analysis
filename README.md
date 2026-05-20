@@ -179,6 +179,5 @@ This project demonstrates the ability to use SQL for business analytics and deci
 
 ## Author
 
-**Alvin**  
-Information Systems & Management Student  
-Interested in Business Analytics, Data Analytics, Consulting, and AI Automation
+**Cordirianto Alvian**  
+
